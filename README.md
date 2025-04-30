@@ -1,6 +1,3 @@
-README.md
-
-'''
 # 🔐 Password Strength Checker
 
 A web-based Password Strength Checker built using **Python Flask**.  
@@ -45,10 +42,8 @@ The total score determines the strength:
 
 ## 📂 Project Structure
 
-'''
 password-strength-checker/ │ ├── app.py # Flask application ├── templates/ │ └── index.html # Frontend HTML form └── README.md # Project overview (this file)
 
-'''
 
 ---
 
@@ -56,23 +51,19 @@ password-strength-checker/ │ ├── app.py # Flask application ├── te
 
 ### 1. Clone this repository
 
-bash
+``bash
 git clone https://github.com/username/password-strength-checker.git
-cd password-strength-checker 
+cd password-strength-checker
 
-'''
+
 2. Install Flask
 Make sure Python is installed. Then install Flask:
 
-'''
 pip install flask
-'''
 
 3. Run the Flask App
 
-'''
 python app.py
-'''
 
 Open your browser and go to:
 👉 http://127.0.0.1:5000
@@ -83,8 +74,6 @@ For questions or collaborations, feel free to reach out via GitHub
 
 📜 License
 This project is open-source and available under the MIT License.
-
-'''
 
 ---
 
@@ -98,7 +87,3 @@ This project is open-source and available under the MIT License.
    ```bash
    git add README.md
    git commit -m "Fixed README formatting"
-
-'''
-
-
